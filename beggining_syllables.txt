@@ -1,0 +1,13 @@
+basic:
+Vi
+Na
+Lo
+Ra
+To
+Ger
+Xan
+Kel
+custom:
+Te
+Mi
+Lo

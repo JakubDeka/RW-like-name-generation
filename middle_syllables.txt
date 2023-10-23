@@ -1,0 +1,11 @@
+basic:
+ser
+gar
+lor
+ven
+zan
+xal
+custom:
+pa
+ti
+bo
